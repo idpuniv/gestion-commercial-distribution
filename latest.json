@@ -1,0 +1,11 @@
+{
+    "version": "1.0.0",
+    "pub_date": "2026-11-18T11:48:55.731Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN0FmcW1ZMURNU2d2VktQbW9iejhoMkM5UUcwaUJuYldGVmJSZGhha2NqS2plV2lxZGlFOVJaVmdPbTFvdEE0TWgwU3NXbGdTbzZIRC9QUmNnR0s5Z1QvS0lBaTlicHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDAyNTM1CWZpbGU6R2VzdGlvbiBDb21tZXJjaWFsZV8xLjAuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjAKTUtTb1E0VXZrRWh0VHJKT296bER6cVNzbGt0b1RxMWZDQ3U4VmxoZnRWYWxva2ZmZDZmak0zOHlNNHdLTFg0TlJqK292c1NWY3NGTUp2Slo0ajRDRGc9PQo=",
+            "url": "https://example.com/gestion-commerciale/installateurs/GestionCommerciale-Setup-1.0.0.exe"
+        }
+    },
+    "config": "eyJjb25maWdfdXJsIjoiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lkcHVuaXYvZ2VzdGlvbi1jb21tZXJjaWFsLWRpc3RyaWJ1dGlvbi9tYWluL2xhdGVzdC5qc29uIiwidXBkYXRlX3VybHMiOlsiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lkcHVuaXYvZ2VzdGlvbi1jb21tZXJjaWFsLWRpc3RyaWJ1dGlvbi9tYWluL2xhdGVzdC5qc29uIl0sImVycm9yX2RzbiI6Imh0dHBzOi8vUExBQ0VIT0xERVJfS0VZQGVycm9ycy5leGFtcGxlLmNvbS8xIiwiaXNzdWVkX2F0IjoxNzk1MDAyNTM1fQ.cBdMckbSTPqAwkb_DX-2H6un_UuDa2v6YrnykUyCXeGhGHDNCb3MiColzyDwNxFRsR74MaeKb9k9DFfYAPlOCg"
+}
