@@ -1,0 +1,4 @@
+# Only latest.json is published here; installers are hosted on the VPS.
+*
+!.gitignore
+!latest.json
