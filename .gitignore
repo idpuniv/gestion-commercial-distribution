@@ -1,4 +1,7 @@
-# Only latest.json is published here; installers are hosted on the VPS.
+# Only the latest.json files are published here (desktop at the root, mobile app in mobile/); installers and APKs are hosted on the VPS.
 *
 !.gitignore
 !latest.json
+!mobile/
+mobile/*
+!mobile/latest.json
